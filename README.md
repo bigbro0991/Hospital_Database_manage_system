@@ -6,7 +6,7 @@ Course project for DATABASE. Use Python Django as the backend,  and Bootstrap as
 
 This project provides basic functions like listing, insertion, updating and deleting of physicians, treatments and patients information.
 
-## Screenshot
+## Overview
 
 ![image](https://github.com/bigbro0991/Hospital_Database_manage_system/blob/master/images/Screenshot%20from%202020-06-17%2023-55-54.jpg)
 
