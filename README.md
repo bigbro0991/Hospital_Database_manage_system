@@ -8,6 +8,8 @@ This project provides basic functions like listing, insertion, updating and dele
 
 ## Screenshot
 
-![shoot1](images/Screenshot1.jpg)
+![shoot1](Screenshot from 2020-06-17 23-55-54.png)
 
-![shoot2](images/Screenshot2.jpg)
+![shoot2](Screenshot from 2020-06-17 23-56-46.png)
+
+![shoot2](Screenshot from 2020-06-18 00-00-40.png)
